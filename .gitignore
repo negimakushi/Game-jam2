@@ -1,0 +1,34 @@
+# Unreal Engine generated files
+Saved/
+Intermediate/
+DerivedDataCache/
+Build/
+Binaries/
+
+# Visual Studio files
+.vs/
+*.vsconfig
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.opendb
+
+# Rider IDE files
+.idea/
+*.DotSettings.user
+
+# OS generated files
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
